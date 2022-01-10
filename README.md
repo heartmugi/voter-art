@@ -22,3 +22,6 @@ pip install natsort
 ```
 python main.py --size 100 --iter 100 --show False --save True
 ```
+
+# 結果例
+![animation](https://user-images.githubusercontent.com/52354163/148814456-fba2c488-761b-4cc3-8134-7385b54a952f.gif)
